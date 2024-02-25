@@ -1,16 +1,47 @@
 <!DOCTYPE html>
 <html data-bs-theme="light" lang="en">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Home - Hot Beans</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700&amp;display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kaushan+Script&amp;display=swap">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+
 </head>
 
+<link rel="stylesheet" href="assets/css/styles.css" />
+<style>
+.masthead {
+  background-image: url('src/images/backg.webp');
+  background-size: auto;
+  background-position: center;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  color: #fff; /* Set text color to ensure readability */
+}
+.intro-lead-in {
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+  margin-bottom: 0.25em;
+}
+.intro-heading {
+  font-size: 2vh;
+  font-weight: 700;
+  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+  margin-bottom: 0.25em;
+}
+</style>
+
+<body>
+
+<!-- NAVBAR-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Hot Beans Web</a>
@@ -53,5 +84,26 @@
 <div class="p-2 bg-white "></div>
 <div class="p-2 bg-white "></div>
 </div>
+<!-- NAVBAR END-->
+    <p> </p>
+    <div class="d-grid gap-3">
+        <div class="p-2 bg-white"></div>
+        <div class="p-2 bg-white"></div>
+    </div>
+
+    <header class="masthead">
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in"><span>Welcome To Our Studio!</span></div>
+                <div class="intro-heading text-uppercase"><span>It's Nice To Meet You</span></div>
+                <a class="btn btn-primary btn-xl text-uppercase" role="button" href="#services">Learn More</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Your other content goes here -->
+
+
+</body>
 
 </html>

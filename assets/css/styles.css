@@ -1,0 +1,16 @@
+.masthead {
+    background-image: url('src/images/backg.webp');
+    background-size: auto;
+    background-position: center;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: #fff; /* Set text color to ensure readability */
+}
+.intro-lead-in {
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+    margin-bottom: 0.25em;
+}

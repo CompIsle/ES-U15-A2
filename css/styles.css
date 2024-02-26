@@ -13,6 +13,8 @@
   height: 60%;
   position: absolute;
   bottom: 0;
+  z-index: 1;
+
   left: 0;
 }
 
@@ -51,6 +53,8 @@
     
     margin-top: 1vh;
     border: #fff 1px solid;
+    z-index: 2;
+
   }
   
   h2 {

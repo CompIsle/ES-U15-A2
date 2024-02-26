@@ -1,0 +1,31 @@
+#parentcard {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allows the cards to wrap to the next line if there isn't enough space */
+}
+
+.card {
+    font-size: 1.5rem;
+    font-weight: normal;
+    width: 25vw; /* Set the width of the cards */
+    margin: 10px; /* Adds some space around each card */
+    border: 3px solid #ffffff;
+    box-sizing: border-box; /* Makes sure the width includes the border and padding */
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Adjust as needed */
+}
+
+.card-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+    text-align: center;
+    margin-bottom: 0.25em;
+}
+.card-text li {
+    list-style-type: none;
+    padding: 0;
+}

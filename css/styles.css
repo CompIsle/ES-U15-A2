@@ -1,35 +1,68 @@
 .masthead {
-    background-image: url('backg.webp');
-    background-size: auto;
-    background-position: center;
-    height: 60vh;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    color: #fff; /* Set text color to ensure readability */
-  }
+  height: 60vh;
+  background-color: rgba(19,31,56,255);
+  color: #ffffff;
+  position: relative;
+  display: flex; /* Add this */
+  justify-content: center; /* Add this */
+  align-items: center; /* Add this */
+}
+
+#background-image{
+  width: 50%;
+  height: 60%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.header{
+  display: flex;
+}
+
   .intro-lead-in {
-    font-size: 3rem;
+    text-align: center;
+    font-size: 6rem;
+    line-break:unset;
     font-weight: 700;
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
     text-shadow: 6px 6px 3px rgb(0, 0, 0);
     margin-bottom: 0.25em;
   }
   .intro-heading {
-    font-size: 4vh;
+    text-align: center;
+    font-size: 6vh;
     font-weight: 700;
-    text-shadow: 6px 6px 3px rgb(0, 0, 0);
-
+    text-shadow: 6px 6px 3px rgb(0, 0, 0); 
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
     margin-bottom: 0.25em;
   }
   .intro-text {
+    align-items: center;
+    justify-content: center;
     padding: 2vw;
     border-radius: 6px;
-    
+    display: flex; /* Add this */
+    flex-direction: column; /* Add this */
   }
+  
 
   #learn {
+    
     margin-top: 1vh;
     border: #fff 1px solid;
+  }
+  
+  h2 {
+    font-size: 5vh;
+    font-weight: 700;
+    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+    margin-bottom: 0.25em;
+  }
+  
+  h3 {
+    font-size: 3vh;
+    font-weight: 700;
+    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+    margin-bottom: 0.25em;
   }

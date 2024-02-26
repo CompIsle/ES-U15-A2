@@ -3,9 +3,9 @@
   background-color: rgba(19,31,56,255);
   color: #ffffff;
   position: relative;
-  display: flex; /* Add this */
-  justify-content: center; /* Add this */
-  align-items: center; /* Add this */
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
 }
 
 #background-image{
@@ -33,7 +33,7 @@
   }
   .intro-heading {
     text-align: center;
-    font-size: 6vh;
+    font-size: 4vh;
     font-weight: 700;
     text-shadow: 6px 6px 3px rgb(0, 0, 0); 
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
@@ -44,8 +44,8 @@
     justify-content: center;
     padding: 2vw;
     border-radius: 6px;
-    display: flex; /* Add this */
-    flex-direction: column; /* Add this */
+    display: flex; 
+    flex-direction: column; 
   }
   
 
@@ -77,5 +77,11 @@
   }
 
   .quicklinks {
-    padding-left: 5vw; /* Adjust this value to move the quicklinks to the right */
+    padding-left: 5vw;
+  }
+
+  p {
+    font-size: 2vh;
+    font-weight: 600;
+    margin-bottom: 0.25em;
   }

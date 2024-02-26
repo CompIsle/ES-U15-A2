@@ -9,20 +9,20 @@
 .container2 {
   border: 3px solid #000;
   border-radius: 10px;
-  width: 60vw; /* Adjust as needed */
-  padding: 2vh 0.5vw 1vh; /* Adjust as needed */
+  width: 60vw;
+  padding: 2vh 0.5vw 1vh;
   background-color: white;
   filter: drop-shadow(10px 10px 4px #000000);
 }
 
 .formheader h2{
-  font-size: 3vw; /* Adjust as needed */
+  font-size: 3vw; 
   line-break:unset;
   font-weight: 700;
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 .formheader h3{
-  font-size: 2vw; /* Adjust as needed */
+  font-size: 2vw; 
   line-break:unset;
   font-weight: 700;
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
@@ -31,14 +31,14 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%; /* Adjust as needed */
+  width: 80%; 
 }
 
 
 #contactForm textarea {
   resize: none;
-  width: 80%; /* Adjust as needed */
-  height: 20vh; /* Adjust as needed */
+  width: 80%; 
+  height: 20vh; 
 }
 
 footer {

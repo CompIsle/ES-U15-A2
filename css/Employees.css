@@ -3,5 +3,17 @@
   }
   
   .quicklinks {
-    padding-left: 20px; /* Adjust this value to move the quicklinks to the right */
+    padding-left: 20px; 
+  }
+
+h4 {
+    font-size: 2.5vh;
+    font-weight: 700;
+    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+    margin-bottom: 0.25em;
+  }
+
+p {
+    font-size: 1.75vh;
+    font-weight: 450;
   }

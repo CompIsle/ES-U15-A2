@@ -45,7 +45,8 @@
         </div>
       </nav>
 <p> </p>
-<section id="contact" style="background-image:url('assets/images/web1.jpg');">
+<body>
+  <section id="contact" style="background-image:url('assets/images/web1.jpg');">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -55,19 +56,32 @@
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <form id="contactForm" name="contactForm">
+                <form id="contactForm" name="contactForm" onsubmit="return validateForm()">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="form-group mb-3"><input class="form-control" type="text" id="name" placeholder="Your Name *" required=""><small class="form-text text-danger flex-grow-1 lead"></small></div>
-                            <div class="form-group mb-3"><input class="form-control" type="email" id="email" placeholder="Your Email *" required=""><small class="form-text text-danger lead"></small></div>
-                            <div class="form-group mb-3"><input class="form-control" type="tel" placeholder="Your Phone *" required=""><small class="form-text text-danger lead"></small></div>
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="text" id="name" placeholder="Your Name *" required="">
+                                <small class="form-text text-danger flex-grow-1 lead"></small>
+                            </div>
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="email" id="email" placeholder="Your Email *" required="">
+                                <small class="form-text text-danger lead"></small>
+                            </div>
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="tel" id="phone" placeholder="Your Phone" required oninput="clearPhoneNumberError()">
+                                <small class="form-text text-danger lead"></small>
+                            </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="form-group mb-3"><textarea class="form-control" id="message" placeholder="Why would you like this job? *" required=""></textarea><small class="form-text text-danger lead"></small></div>
+                            <div class="form-group mb-3">
+                                <textarea class="form-control" id="message" placeholder="Why would you like this job? *" required=""></textarea>
+                                <small class="form-text text-danger lead"></small>
+                            </div>
                         </div>
                         <div class="w-100"></div>
                         <div class="col-lg-12 text-center">
-                            <div id="success"></div><button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Send Application</button>
+                            <div id="success"></div>
+                            <button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Send Application</button>
                         </div>
                     </div>
                 </form>
@@ -75,6 +89,29 @@
         </div>
     </div>
 </section>
+
+<!-- javascript for ensuring a number is input in Phone number -->
+
+<script>
+    function validateForm() {
+        var phoneInput = document.getElementById("phone");
+        var phoneValue = phoneInput.value;
+
+        if (!/^\d+$/.test(phoneValue)) {
+            phoneInput.setCustomValidity('This is not a valid phone number.');
+            return false;
+        } else {
+            phoneInput.setCustomValidity('');
+            return true;
+        }
+    }
+
+    function clearPhoneNumberError() {
+        var phoneInput = document.getElementById("phone");
+        phoneInput.setCustomValidity('');
+    }
+</script>
+</body>
 <p>
 </p>
 <footer>

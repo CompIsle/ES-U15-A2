@@ -2,8 +2,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  margin: 0;
+  height: 80vh;
+  margin-bottom: 15vh;
 }
 
 .container2 {
@@ -41,10 +41,7 @@
   height: 20vh; /* Adjust as needed */
 }
 
-#copyright {
-  color: white;
-}
-
-.quicklinks {
-  padding-left: 20px; /* Adjust this value to move the quicklinks to the right */
+footer {
+  color: rgb(0, 0, 0);
+  padding-left: 6vw;   
 }

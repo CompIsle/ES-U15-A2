@@ -70,3 +70,12 @@
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
     margin-bottom: 0.25em;
   }
+
+  footer {
+    color: rgb(0, 0, 0);
+    padding-top: 6vh;   
+  }
+
+  .quicklinks {
+    padding-left: 5vw; /* Adjust this value to move the quicklinks to the right */
+  }

@@ -2,23 +2,23 @@
 
 The client requested a profile of the company itself. This area aids in establishing the company's identity and drawing clients who share its values and aspirations. It makes a good first impression and demonstrates the company's dedication to openness and transparency.
 
-![A website with text and images](Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.001.png)
+![A website with text and images](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.001.png)
 
 The client also requesting profiles of existing trainee web developers. Because future employees may identify with the experiences of present trainees, the company becomes more relevant and provides insights into possible career paths and organisational growth chances.
 
-![A screenshot of a computer](Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.002.png)
+![A screenshot of a computer](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.002.png)
 
 The company also requested I include job specifications and required qualifications. By ensuring that only eligible and qualified candidates apply, this information helps to save time for both the organisation and the applicants. It establishes clear expectations right away, which encourages more pertinent applications and streamlines the hiring process.
 
-![A screenshot of a computer](Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.003.png)
+![A screenshot of a computer](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.003.png)
 
 The client requested that I include an online application form for job applications. Having an online application form improves accessibility, improves user experience, and enables methodical data collecting. It makes the hiring process easier for both the employer and candidates, which improves recruitment efficiency.
 
-![A screen shot of a computer](Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.004.png)
+![A screen shot of a computer](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.004.png)
 
 The client also wanted me to include links to web development courses. By highlighting the organization's commitment to ongoing learning and development, this piece delivers value. It draws applicants who want to contribute to an innovative and improving culture by upskilling and expanding within their professions.
 
-![A screenshot of a web development course](Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.005.png)
+![A screenshot of a web development course](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.005.png)
 
 I am meeting the client's unique needs and assisting in recruiting quality individuals who share the company's values and vision by integrating these components into the website, which will ultimately contribute to the organization's long-term success and growth. This will also support the website's primary objective of reaching out to new developers.
 
@@ -46,15 +46,15 @@ FID calculates the time elapsed between a user's initial request and the website
 
 In order to guarantee complete cross-browser compatibility, I thoroughly examined the website using Firefox, Edge, and Chrome. The testing procedure was enacted to confirm that the website functions reliably in many different browsers, giving users a seamless experience independent of their preferred browser.
 
-![A screenshot of a website](Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.007.png) 
+![A screenshot of a website](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.007.png) 
 
 Forms and interactive buttons are examples of functionality that has undergone comprehensive testing to ensure appropriate operation. I also looked through the console logs to see if there were any particular faults or warnings that might be peculiar to the Firefox browser.
 
-![A screenshot of a computer](Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.008.png)
+![A screenshot of a computer](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.008.png)
 
 I tested various Microsoft Edge pages and features in a manner akin to that of testing Firefox to make sure that interactive features worked as intended and that visual components were displayed appropriately.
 
-![A screenshot of a website](Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.009.png)
+![A screenshot of a website](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.009.png)
 
 
 

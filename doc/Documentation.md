@@ -71,20 +71,20 @@ Test schedules/data
 
 **Visual Page Designs and Feedback**
 
-![A screenshot of a computer](Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.010.png)
+![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.010.png)
 
-![A screenshot of a computer](Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.011.png)
+![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.011.png)
 
 **Job Specification Visual Plan**
 
-![A screenshot of a computer](Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.012.png)
+![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.012.png)
 
-![A screenshot of a computer](Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.013.png)
+![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.013.png)
 
 **Application Visual Design Plan**
 
-![A screen shot of a computer](Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.014.png)
-![A screen shot of a computer](Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.015.png)
+![A screen shot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.014.png)
+![A screen shot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.015.png)
 
 **Website optimization**
 

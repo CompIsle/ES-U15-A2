@@ -74,6 +74,15 @@ I tested various Microsoft Edge pages and features in a manner akin to that of t
 The white of the first design is too harsh on the eye, a bit straining. the apply now button without a border is boring. The layout on second design is more cohesive and visually interesting.
 The font makes the second design satisfying and cozy to look at.
 
+After hearing this feedback, I made the decision to opt for the darker colour palette as it seems to be better received by users and holds the following benefits:
+
+**Reduced Eye Strain**
+
+Bright white backgrounds can cause eye strain, particularly when using a screen for extended periods of time. Because there is less contrast overall when the background is darker and the text is lighter, consumers can read content for longer periods of time without experiencing any discomfort. The reading experience is enhanced by the use of blue, grey and white. Users will find it simpler to concentrate on content with the well-balanced contrast created by the lighter font on a darker background.
+
+**Aesthetic Appeal**
+
+Darker designs often feel more refined. The mix of blue and grey hues gives the website a polished look that compliments all of the other pages and general aesthetic. The visual hierarchy can be more effectively controlled with a darker background. With a darker background, key features like headings and call-to-action buttons can stand out more, drawing users' attention and enabling better navigation.
 
 **Application Visual Design Plan**
 

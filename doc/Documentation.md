@@ -57,18 +57,6 @@ I tested various Microsoft Edge pages and features in a manner akin to that of t
 ![A screenshot of a website](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.009.png)
 
 
-
-
-**User Testing**
-
-Feedback
-
-The white is too harsh on the eye, a bit straining. the apply now button without a border is lacking. The layout on second design is more cohesive and visually interesting.
-
-Satisfying and cozy to look at.
-
-Test schedules/data
-
 **Visual Page Designs and Feedback**
 
 ![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.010.png)
@@ -80,6 +68,10 @@ Test schedules/data
 ![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.012.png)
 
 ![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.013.png)
+***User Feedback***
+The white of the first design is too harsh on the eye, a bit straining. the apply now button without a border is boring. The layout on second design is more cohesive and visually interesting.
+The font makes the second design satisfying and cozy to look at.
+
 
 **Application Visual Design Plan**
 

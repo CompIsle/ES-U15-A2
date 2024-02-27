@@ -101,6 +101,8 @@ Darker designs often feel more refined. The mix of blue and grey hues gives the
 **Before**
 ![A screenshot of code](img/unoptimized%20code.PNG)
 
+**After**
+
 **Responsibility and Self-management**
 
 ![A screenshot of a project](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.016.png)

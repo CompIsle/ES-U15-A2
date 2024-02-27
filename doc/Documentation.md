@@ -59,11 +59,18 @@ I tested various Microsoft Edge pages and features in a manner akin to that of t
 
 **Visual Page Designs and Feedback**
 
+![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.011.png)
 ![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.010.png)
 
-![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.011.png)
 
-**Job Specification Visual Plan**
+The design sheet that I created designates certain fonts, such Kaushan Script and Inika, for use with particular website elements. This guarantees a visually pleasing and uniform typeface across the website.
+The stylesheet adds to a polished and professional appearance by specifying fonts, which is consistent with the overall design.
+
+The selected colour scheme, which consists of white, grey, and blue, is also specified in the CSS. A united and professional look is facilitated by the visually cohesive design that is produced by the continuous use of colours.
+These particular colours are used for text, navbars and card elements on the website to support branding and facilitate user navigation.
+
+
+**Job Specification Page**
 
 ![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.012.png)
 
@@ -93,7 +100,6 @@ Darker designs often feel more refined. The mix of blue and grey hues gives the
 
 Before and after
 
-**User needs and Design choices**
 
 **Responsibility and Self-management**
 

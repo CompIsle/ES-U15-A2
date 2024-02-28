@@ -154,3 +154,9 @@ I optimized the code in order to create extra legibility and functionality withi
 A speed test was also conducted to ensure the site was fully optimized for the client, the tests revealed a fast running site with little to no issues.
 
 ## Review
+
+I used a Gantt chart to carefully plan and carry out each phase of the website development project, demonstrating a high degree of accountability and good self-management. This tactical method made it possible to estimate the amount of time needed for each work, divide them into manageable chunks, and create a visual schedule for smooth development. 
+
+I also managed to maintain an aesthetically pleasing site without compromising any accessibility or functionality. Within the application section, I ran into multiple issues with the form-control class, more specifically with 'type=tel'. This section is meant to allow a phone number to be input into the form yet it allowed non-numeric characters. I quickly resolved this issue by adding additional javascript in the section below, showing my ability to adapt and improve.
+
+in conclusion, the website development project exhibits an organised and client-oriented approach. Personal accountability and efficient time management were made possible by the usage of a Gantt chart. Proactively seeking input from users and carefully optimising for client needs demonstrated a consistent commitment to client satisfaction. The well-thought-out graphic designs and extensive testing demonstrate a commitment to providing a polished and user-friendly digital representation that satisfies client and user criteria. 

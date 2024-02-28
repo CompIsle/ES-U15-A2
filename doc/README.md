@@ -1,4 +1,14 @@
-**Client Requirements**
+# Unit 14 Assignment 2
+## Client Requirements
+
+- A profile of the company itself
+- profiles of existing trainee web developers
+- job specifications and required qualifications
+- an on-line application form
+- links to web development courses
+- Cohesive colour scheme
+- Legible fonts/cohesive
+- Multiple mock ups
 
 The client requested a profile of the company itself. This area aids in establishing the company's identity and drawing clients who share its values and aspirations. It makes a good first impression and demonstrates the company's dedication to openness and transparency.
 

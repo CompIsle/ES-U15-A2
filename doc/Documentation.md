@@ -78,7 +78,7 @@ These particular colours are used for text, navbars and card elements on the we
 
 ***User Feedback***
 
-The white of the first design is too harsh on the eye, a bit straining. the apply now button without a border is boring. The layout on second design is more cohesive and visually interesting.
+The white of the first design is too harsh on the eye, a bit straining. The "apply now" button without a border is boring. The layout on second design is more cohesive and visually interesting.
 The font makes the second design satisfying and cozy to look at.
 
 After hearing this feedback, I made the decision to opt for the darker colour palette as it seems to be better received by users and holds the following benefits:
@@ -104,10 +104,6 @@ Darker designs often feel more refined. The mix of blue and grey hues gives the
 **After**
 ![A screenshot of code](img/optimized.PNG)
 
-**Responsibility and Self-management**
-
-![A screenshot of a project](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.016.png)
-
 **Optimizations made:**
 
 - Removed unnecessary <p</n>> </p</n>> and <br</n>> tags for cleaner code.
@@ -116,6 +112,14 @@ Darker designs often feel more refined. The mix of blue and grey hues gives the
 - Ensured consistent indentation for better code structure.
 - Simplified anchor tag in the header by removing the unnecessary id attribute.
 - Reorganized and simplified class structure for better readability.
+
+**Responsibility and Self-management**
+
+![A screenshot of a project](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.016.png)
+
+Using a Gantt chart to methodically plan the building of the website, I showed accountability and effective self-management throughout the project. Using a strategic approach, jobs were divided into manageable chunks, time requirements were estimated, and a visual timetable was created for each task. I used the Gantt chart as a guide to help me through every stage of the project. I gave each assignment a certain amount of time, so the schedule was both reasonable and well-balanced. My ability to meet deadlines within the allotted time demonstrated my excellent time management abilities, as I gave every part of the project enough attention.
+
+I constantly showed a sense of responsibility throughout the project by setting priorities and taking the needs of the client into account at every turn. Understanding how crucial it was to match the client's vision with the finished product, I actively sought out feedback and ideas to make sure their expectations were met.
 
 **Review**
 

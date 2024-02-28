@@ -102,10 +102,20 @@ Darker designs often feel more refined. The mix of blue and grey hues gives the
 ![A screenshot of code](img/unoptimized%20code.PNG)
 
 **After**
+![A screenshot of code](img/optimized.PNG)
 
 **Responsibility and Self-management**
 
 ![A screenshot of a project](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.016.png)
+
+**Optimizations made:**
+
+- Removed unnecessary <p</n>> </p</n>> and <br</n>> tags for cleaner code.
+- Combined the "About Us" section under a single <section> with the id="about".
+- Removed redundant class attributes where they were not adding value.
+- Ensured consistent indentation for better code structure.
+- Simplified anchor tag in the header by removing the unnecessary id attribute.
+- Reorganized and simplified class structure for better readability.
 
 **Review**
 

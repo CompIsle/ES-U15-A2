@@ -22,7 +22,7 @@ The client also wanted me to include links to web development courses. By highli
 
 I am meeting the client's unique needs and assisting in recruiting quality individuals who share the company's values and vision by integrating these components into the website, which will ultimately contribute to the organization's long-term success and growth. This will also support the website's primary objective of reaching out to new developers.
 
-**Design Justification**
+## Design Justification
 
 I intentionally gave visibility and visual appeal top priority when creating the design. Using contrasting colours for the text and background was a crucial tactic I used to improve readability and guarantee accessibility for a wide range of users. Through adherence to colour contrast best practices, the design facilitates seamless and inclusive browsing for people with a range of visual skills. To create a clean, polished look, the colour scheme of blue, grey, black, and white was purposefully kept constant throughout the pages. 
 
@@ -57,7 +57,7 @@ I tested various Microsoft Edge pages and features in a manner akin to that of t
 ![A screenshot of a website](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.009.png)
 
 
-**Visual Page Designs and Feedback**
+## Visual Page Designs and Feedback
 
 ![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.011.png)
 ![A screenshot of a computer](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.010.png)
@@ -114,7 +114,7 @@ Darker designs often feel more refined. The mix of blue and grey hues gives the
 - Simplified anchor tag in the header by removing the unnecessary id attribute.
 - Reorganized and simplified class structure for better readability.
 
-**Responsibility and Self-management**
+## Responsibility and Self-management
 
 ![A screenshot of a project](img/Aspose.Words.56e71df7-e680-462f-858c-fe7b096155b6.016.png)
 
@@ -122,10 +122,8 @@ Using a Gantt chart to methodically plan the building of the website, I showed a
 
 I constantly showed a sense of responsibility throughout the project by setting priorities and taking the needs of the client into account at every turn. Understanding how crucial it was to match the client's vision with the finished product, I actively sought out feedback and ideas to make sure their expectations were met.
 
-**Review**
 
-
-**Optimization for client requirements**
+## Optimization for client requirements
 
 Client requirements.
 - A profile of the company itself
@@ -141,3 +139,8 @@ The website's optimisation and design successfully meet the needs of the custome
 
 Another demand from the client was to provide an interesting and educational presentation, and several mock-ups were essential to this process. the readable fonts enhance accessibility as to allow all users to view the content without struggle.
 
+I optimized the code in order to create extra legibility and functionality within the website. Functionality tests were then conducted in order to ensure the site is accessible from all browsers in order to make sure the potential jobs are open to as many users as possible.
+
+A speed test was also conducted to ensure the site was fully optimized for the client, the tests revealed a fast running site with little to no issues.
+
+## Review

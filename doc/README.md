@@ -30,11 +30,9 @@ The client also wanted me to include links to web development courses. By highli
 
 ![A screenshot of a web development course](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.005.png)
 
-I am meeting the client's unique needs and assisting in recruiting quality individuals who share the company's values and vision by integrating these components into the website, which will ultimately contribute to the organization's long-term success and growth. This will also support the website's primary objective of reaching out to new developers.
-
 ## Design Justification
 
-I intentionally gave visibility and visual appeal top priority when creating the design. Using contrasting colours for the text and background was a crucial tactic I used to improve readability and guarantee accessibility for a wide range of users. Through adherence to colour contrast best practices, the design facilitates seamless and inclusive browsing for people with a range of visual skills. To create a clean, polished look, the colour scheme of blue, grey, black, and white was purposefully kept constant throughout the pages. 
+I intentionally gave visibility and visual appeal top priority when creating the design. Using contrasting colours for the text and background was a crucial tactic I used to improve readability and guarantee accessibility for a wide range of users. Through adherence to colour contrast best practices, the design facilitates seamless and inclusive browsing for people with a range of visual skills. To create a clean, polished look, the colour scheme was purposefully kept constant throughout the pages. 
 
 This methodical approach creates a timeless and adaptable design that appeals to users and strengthens brand identification in addition to helping the website maintain a consistent visual identity.
 

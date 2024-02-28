@@ -12,7 +12,7 @@ The company also requested I include job specifications and required qualificati
 
 ![A screenshot of a computer](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.003.png)
 
-The client requested that I include an online application form for job applications. Having an online application form improves accessibility, improves user experience, and enables methodical data collecting. It makes the hiring process easier for both the employer and candidates, which improves recruitment efficiency.
+The client requested that I include an online application form for job applications. Having an online application form improves accessibility, improves user experience, and enables methodical data collecting. It makes the hiring process easier for both the employer and candidates, which improves recruitment efficiency. This application has no back-end and will therefore not save or send any forms after they have been submitted and is purely for visual purposes at the moment.
 
 ![A screen shot of a computer](img/Aspose.Words.9b6c2a1d-d6d7-4575-b52f-5a11b6f9e456.004.png)
 
@@ -104,6 +104,7 @@ Darker designs often feel more refined. The mix of blue and grey hues gives the
 **After**
 ![A screenshot of code](img/optimized.PNG)
 
+
 **Optimizations made:**
 
 - Removed unnecessary <p</n>> </p</n>> and <br</n>> tags for cleaner code.
@@ -123,4 +124,20 @@ I constantly showed a sense of responsibility throughout the project by setting 
 
 **Review**
 
+
 **Optimization for client requirements**
+
+Client requirements.
+- A profile of the company itself
+- profiles of existing trainee web developers
+- job specifications and required qualifications
+- an on-line application form
+- links to web development courses
+- Cohesive colour scheme
+- Legible fonts/cohesive
+- Multiple mock ups
+
+The website's optimisation and design successfully meet the needs of the customer, providing a unified and eye-catching display. The company's profile uses a colour scheme of blue, black, white, and grey to convey professionalism and create a visually appealing background that represents the company's identity.
+
+Another demand from the client was to provide an interesting and educational presentation, and several mock-ups were essential to this process. the readable fonts enhance accessibility as to allow all users to view the content without struggle.
+

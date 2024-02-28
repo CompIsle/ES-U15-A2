@@ -88,8 +88,8 @@ These particular colours are used for text, navbars and card elements on the we
 
 ***User Feedback***
 
-The white of the first design is too harsh on the eye, a bit straining. The "apply now" button without a border is boring. The layout on second design is more cohesive and visually interesting.
-The font makes the second design satisfying and cozy to look at.
+"The white of the first design is too harsh on the eye, a bit straining. The "apply now" button without a border is boring. The layout on second design is more cohesive and visually interesting."- User 1
+"The font makes the second design satisfying and cozy to look at."- User 2
 
 After hearing this feedback, I made the decision to opt for the darker colour palette as it seems to be better received by users and holds the following benefits:
 
